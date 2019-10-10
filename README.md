@@ -1,6 +1,6 @@
-# page_animation_transition
+# Page Transition Animations
 
-A new Flutter application.
+Followed the docs
 
 ## Getting Started
 
